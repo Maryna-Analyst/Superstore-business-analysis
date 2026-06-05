@@ -73,7 +73,7 @@
 
 *(Нижче представлено загальний вигляд інтерактивного дашборду, створеного в Google Sheets для моніторингу метрик)*
 
-![Business Dashboard](dashboard.png)
+![Business Dashboard](dashbord.png)
 
 ---
 
